@@ -1,0 +1,18 @@
+---
+title: "Homework 1"
+author: "Eric Gleiter; Github: Eric-Gleiter"
+date: "1/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Data Science Job
+
+One job that involves data science is **Data Scientist** in this lower levels of this job you are mainly doing *Data Wrangling* and *Data visualization*. These tasks are mainly focused on turning raw data into a form that can be used for analysis and create the first graphs and chart that can be used to interpret the data. For more information click [here.](https://www.sas.com/en_us/insights/analytics/what-is-a-data-scientist.html)
+
+![](images\How-to-become-a-data-scientist.png)
+
+
